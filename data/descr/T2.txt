@@ -1,0 +1,2 @@
+<h4>T2 - T2 Weighted Imaging</h4></hr>
+One of the basic pulse sequences in MRI. The sequence weighting highlights differences in the T2 relaxation time of tissues. The repetition time (TR) is long, echo time (TE) is long, fat is intermediate-bright and fluid is bright as well. In this case, flip angle is less important than with T1 weighting. </hr>

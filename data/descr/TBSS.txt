@@ -1,0 +1,3 @@
+<h4>TBSS - Track based Spatial Statistics</h4></hr>
+TBSS aims to solve the arbitrariness of the choice of spatial smoothing via a) carefully tuned nonlinear registration, followed by b) projection onto an alignment-invariant tract representation (the "mean FA skeleton"). TBSS aims to improve the sensitivity, objectivity and interpretability of analysis of multi-subject diffusion imaging studies.</hr>
+

@@ -1,0 +1,2 @@
+<h4>dMRI-Diffusion Based Magnetic Resonance Imaging</h4></hr>
+A popular method used by neuroscientists to uncover unique information about the structural connections within the brain. dMRI is a non-invasive imaging methodology in which image contrast is based on the diffusion of water molecules in tissue. </br>

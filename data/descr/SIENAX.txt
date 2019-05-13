@@ -1,0 +1,2 @@
+<h4>SIENAX</h4></hr>
+Brain tissue volume, normalised for subject head size, was estimated with SIENAX, part of FSL. SIENAX starts by extracting brain and skull images from the single whole-head input data. The brain image is then affine-registered to MNI152 space. This is primarily in order to obtain the volumetric scaling factor, to be used as a normalisation for head size. Next, tissue-type segmentation with partial volume estimation is carried out in order to calculate total volume of brain tissue.</hr>

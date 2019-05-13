@@ -1,0 +1,2 @@
+<h4>T1 - T1 Weighted Imaging</h4></hr>
+One of the basic pulse sequences in MRI and demonstrates differences in the T1 relaxation times of tissues. T1 weighting tends to have short TE and TR times. Fat quickly realigns its longitudinal magnetization with B0, and it, therefore, appears bright on a T1 weighted image. Conversely, water has much slower longitudinal magnetization realignment after an RF pulse and therefore, has less transverse magnetization after an RF pulse. Thus, water has low signal and appears dark. </hr>

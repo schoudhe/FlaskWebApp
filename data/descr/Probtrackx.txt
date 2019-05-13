@@ -1,0 +1,2 @@
+<h4>Probtrackx</h4></hr>
+Performs tractography on NVIDIA Graphics Processing Units (GPUs). Probtrackx is a GPU-based framework that also supports connectome generation with three options: (1) connectivity matrix between all the seed points and all the other seed points, (2) connectivity matrix between all the points of two different masks, and (3) connectivity matrix between all the seed points and all the points specified in a different mask. Users can utilize surfaces, as well as volumes, for defining seed and regions of interest (ROIs).</hr>
