@@ -24,7 +24,7 @@ lxml==4.3.2
 MarkupSafe==1.1.0
 matplotlib==3.0.3
 networkx==2.2
-numpy==1.16.0
+numpy==1.22.0
 pandas==0.24.0
 pexpect==4.6.0
 ptyprocess==0.6.0
